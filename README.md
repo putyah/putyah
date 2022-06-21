@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @putyah
 - 👀 I’m interested in e-commerce en datascience. Based on data I create actions
-- 🌱 I’m currently learning to become Datascientist
+- 🌱 Constanly fiddeling with Python, GBQ and Power BI
 - 📫 How to reach me: Leave an comment below. 
 
 <!---
